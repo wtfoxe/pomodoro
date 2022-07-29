@@ -9,8 +9,9 @@
 
 - [x] Voltar a contagem para o valor inicial;
 
-### 0.0.1
 - [x] Evitar bug dos multiplos cliques
 
-- [] Arrumar posição dos botões
+- [x] Arrumar posição dos botões
+
+
 
